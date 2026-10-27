@@ -1,4 +1,4 @@
-# Hi, I'm Chen 👋, 
+# Hi, I'm Chen 👋
 I'm a first-year BSc Artificial Intelligence & Computer Science student at the University of, interested in machine learning, natural language processing (NLP), and software engineering. 
 
 I enjoy learning how things work, solving problems, and turning what I learn into practical projects. 
